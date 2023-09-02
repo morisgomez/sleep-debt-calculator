@@ -7,7 +7,7 @@ const getSleepHours = day => //arrow function w/ 1 parameter.
   }
   else if (day === "tuesday")
   {
-    return 1;
+    return 15;
   }
   else if (day === "wednesday")
   {
